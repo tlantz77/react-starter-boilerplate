@@ -1,0 +1,19 @@
+{
+  "name": "react-starter-boilerplate",
+  "version": "1.0.0",
+  "description": "Starter React boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlantz77/react-starter-boilerplate.git"
+  },
+  "author": "Tim Lantz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tlantz77/react-starter-boilerplate/issues"
+  },
+  "homepage": "https://github.com/tlantz77/react-starter-boilerplate#readme"
+}
