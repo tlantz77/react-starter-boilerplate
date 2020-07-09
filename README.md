@@ -1,2 +1,3 @@
-# react-starter-boilerplate
-Starter boilerplate for React apps with Webpack/Babel
+# Game Collector
+
+Game Collection project using PriceCharting API

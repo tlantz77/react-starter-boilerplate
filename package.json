@@ -1,24 +1,24 @@
 {
-  "name": "react-starter-boilerplate",
+  "name": "game-collector",
   "version": "1.0.0",
-  "description": "Starter React boilerplate",
+  "description": "Game Collector",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode development",
-    "clean": "rm -rf dist && rm -rf node_modules && npm i",
+    "clean": "rm -rf dist && rm -rf node_modules && rm package-lock.json && npm i",
     "start": "webpack-dev-server --mode development",
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tlantz77/react-starter-boilerplate.git"
+    "url": "git+https://github.com/tlantz77/game-collector.git"
   },
   "author": "Tim Lantz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tlantz77/react-starter-boilerplate/issues"
+    "url": "https://github.com/tlantz77/game-collector/issues"
   },
-  "homepage": "https://github.com/tlantz77/react-starter-boilerplate#readme",
+  "homepage": "https://github.com/tlantz77/game-collector#readme",
   "devDependencies": {
     "@babel/cli": "7.10.3",
     "@babel/core": "7.10.3",
