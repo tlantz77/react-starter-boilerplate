@@ -1,3 +1,2 @@
-# Game Collector
+# React Starter Boilerplate
 
-Game Collection project using PriceCharting API
