@@ -1,1 +1,2 @@
-# game-collector
+# React Starter Boilerplate
+
